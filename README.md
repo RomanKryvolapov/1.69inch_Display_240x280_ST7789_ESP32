@@ -13,7 +13,7 @@
 <p>PIN_UART_TX = 17</p>
 <p>PIN_UART_RX = 16</p>
 
-![Device 1!](https://github.com/RomanKryvolapov/2.4_2.8_LCD_320x240_ILI9341_ESP32/blob/master/Display.jpg "Device 1")
+![Device 1!](https://github.com/RomanKryvolapov/1.69_LCD_240x280_ST7789_ESP32/blob/master/Display.jpg "Device 1")
 
-![Device 2!](https://raw.githubusercontent.com/RomanKryvolapov/LoraMessengerESP32Client/main/ESP32.png "Device 2")
+![Device 2!](https://github.com/RomanKryvolapov/1.69_LCD_240x280_ST7789_ESP32/blob/master/ESP32.png?raw=true "Device 2")
 
