@@ -16,6 +16,3 @@
 ![1!](https://github.com/RomanKryvolapov/1.69_LCD_240x280_ST7789_ESP32/blob/master/Display.jpg "1")
 
 ![2!](https://github.com/RomanKryvolapov/1.69_LCD_240x280_ST7789_ESP32/blob/master/ESP32-Pinout.png "2")
-
-![3!](https://github.com/RomanKryvolapov/1.69_LCD_240x280_ST7789_ESP32/blob/master/ESP32.png?raw=true "3")
-
