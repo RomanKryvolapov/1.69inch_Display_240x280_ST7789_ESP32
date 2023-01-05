@@ -13,7 +13,9 @@
 <p>PIN_UART_TX = 17</p>
 <p>PIN_UART_RX = 16</p>
 
-![Device 1!](https://github.com/RomanKryvolapov/1.69_LCD_240x280_ST7789_ESP32/blob/master/Display.jpg "Device 1")
+![1!](https://github.com/RomanKryvolapov/1.69_LCD_240x280_ST7789_ESP32/blob/master/Display.jpg "1")
 
-![Device 2!](https://github.com/RomanKryvolapov/1.69_LCD_240x280_ST7789_ESP32/blob/master/ESP32.png?raw=true "Device 2")
+![2!](https://github.com/RomanKryvolapov/1.69_LCD_240x280_ST7789_ESP32/blob/master/ESP32-Pinout.png "2")
+
+![3!](https://github.com/RomanKryvolapov/1.69_LCD_240x280_ST7789_ESP32/blob/master/ESP32.png?raw=true "3")
 
